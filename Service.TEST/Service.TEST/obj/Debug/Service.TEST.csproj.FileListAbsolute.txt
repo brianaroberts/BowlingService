@@ -1,0 +1,14 @@
+C:\MyGitSource\Angular\CSD_CLASS\Service\Service.TEST\Service.TEST\bin\Debug\Service.TEST.dll
+C:\MyGitSource\Angular\CSD_CLASS\Service\Service.TEST\Service.TEST\bin\Debug\Service.TEST.pdb
+C:\MyGitSource\Angular\CSD_CLASS\Service\Service.TEST\Service.TEST\bin\Debug\ClassLibrary1.dll
+C:\MyGitSource\Angular\CSD_CLASS\Service\Service.TEST\Service.TEST\bin\Debug\ClassLibrary1.pdb
+C:\MyGitSource\Angular\CSD_CLASS\Service\Service.TEST\Service.TEST\obj\Debug\Service.TEST.csprojResolveAssemblyReference.cache
+C:\MyGitSource\Angular\CSD_CLASS\Service\Service.TEST\Service.TEST\obj\Debug\Service.TEST.dll
+C:\MyGitSource\Angular\CSD_CLASS\Service\Service.TEST\Service.TEST\obj\Debug\Service.TEST.pdb
+C:\MyGitSource\BowlingService\Service.TEST\Service.TEST\bin\Debug\Service.TEST.dll
+C:\MyGitSource\BowlingService\Service.TEST\Service.TEST\bin\Debug\Service.TEST.pdb
+C:\MyGitSource\BowlingService\Service.TEST\Service.TEST\bin\Debug\ClassLibrary1.dll
+C:\MyGitSource\BowlingService\Service.TEST\Service.TEST\bin\Debug\ClassLibrary1.pdb
+C:\MyGitSource\BowlingService\Service.TEST\Service.TEST\obj\Debug\Service.TEST.csprojResolveAssemblyReference.cache
+C:\MyGitSource\BowlingService\Service.TEST\Service.TEST\obj\Debug\Service.TEST.dll
+C:\MyGitSource\BowlingService\Service.TEST\Service.TEST\obj\Debug\Service.TEST.pdb
